@@ -1,1 +1,4 @@
 __pycache__/*
+flask/__pycache__
+flask/.idea
+.DS_Store
